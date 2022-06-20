@@ -1,0 +1,11 @@
+.f-1 {
+  width: 50%;
+  border-radius: 15px;
+  display: inline-block;
+  margin: 20px;
+}
+.b-1 {
+  border-radius: 8px;
+  width: 15%;
+  background-color: lightgreen;
+}
